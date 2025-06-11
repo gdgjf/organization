@@ -1,25 +1,31 @@
 # Passo a passo para realizar um evento (rascunho)
 
-1 - Definir conteúdo, palestrante
+1. Definir conteúdo, palestrante
+1. Definir local, data e hora
+1. Criar artes
+   - Arte banner (bevy)
+   - Arte thumb (bevy)
+   - Arte vertical do palestrante (instagram)
+1. Divulgar evento
+   - Nos grupos de whatsapp
+   - No instagram
+1. Definir papeis para o dia do evento
+   - Pessoa do checkin
+   - Pessoa para tirar fotos
+1. Realizar evento!
+1. Juntar imagens e videos para fazer um video do evento
+1. Preencher formulários pós evento pro Google
 
-2 - Definir local, data e hora
+# Checkin
+A pessoa deve:
+- Chegar bem antes do horário de início
+- Usar o app do bevy pra confirmar a presença
+- Cadastrar quem ainda não tiver se registrado para o evento
 
-3 - Criar artes
-3.1 - Arte banner (bevy)
-3.2 - Arte thumb (bevy)
-3.3 - Arte vertical do palestrante (instagram)
-
-4 - Divulgar evento
-4.1 - Nos grupos de whatsapp
-4.2 - No instagram
-
-6 - Definir papeis para o dia do evento
-6.1 - Pessoa do checkin
-6.2 - Pessoa para tirar fotos
-
-7 - Realizar evento!
-7.1 - Tirar fotos, fazer vídeos das pessoas falando, do público, de vários angulos, com a camera sempre em pé
-
-8 - Juntar imagens e videos para fazer um video do evento
-
-9 - Preencher formulários pós evento pro Google
+# Fotografia e instagram
+A pessoa deve:
+- Tirar um bom numero de fotos verticais e horizontais
+- Fazer videos verticais, tanto do público, quanto do palestrante, quanto das pessoas perguntando, de vários ângulos
+- Tirar fotos do time de organização do evento (depois do evento)
+- Tirar fotos de todos do evento (se possível), horizontal e vertical
+- Assim que fazer um video ou outro, postar no instagram, marcando o palestrante em algum post
