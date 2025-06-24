@@ -8,10 +8,10 @@
    - Arte vertical do palestrante (instagram)
 1. Divulgar evento
    - Nos grupos de whatsapp
-   - No instagram
+   - No instagram (postando arte do evento e dos palestrantes junto num mesmo post)
 1. Definir papeis para o dia do evento
    - Pessoa do checkin
-   - Pessoa para tirar fotos
+   - Pessoa para tirar fotos e postar no instagram
 1. Realizar evento!
 1. Juntar imagens e videos para fazer um video do evento
 1. Preencher formulários pós evento pro Google
