@@ -6,6 +6,7 @@
    - Arte banner (bevy)
    - Arte thumb (bevy)
    - Arte vertical do palestrante (instagram)
+   - Arte vertical do evento
 1. Divulgar evento
    - Nos grupos de whatsapp
    - No instagram (postando arte do evento e dos palestrantes junto num mesmo post)
